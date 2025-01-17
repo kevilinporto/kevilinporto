@@ -1,4 +1,6 @@
-<h1 align="center">I'm Vitoria!</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kevilinporto.kevilinporto" />
+<h1 align="center">I'm Vitoria!</h1> <img align="right"
+
 
 <h2 align="center"> Desenvolvedora | Java | JavaScript
 
