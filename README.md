@@ -24,14 +24,14 @@
 <br><br>
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aerienhauer&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kevilinporto&show_icons=true&theme=radical)
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aerienhauer&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kevilinporto&layout=compact&theme=radical)
 
 <br><br>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aerienhauer)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kevilinporto)
 
 
 [![Spotify](https://novatorem-git-main-vitorias-projects-142af1a4.vercel.app/api/spotify)](https://open.spotify.com/user/31bmj24assunbecxzhxtwxmu4imq)
