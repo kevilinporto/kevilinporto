@@ -1,8 +1,8 @@
 # 👋🐒
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGM5bXFzZWtiNjg5aDdtcDQxY3F4d3ptZHZ5Mmhmb2Q0NWltZnhtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/04qOfpbf2xQRmu1RLy/giphy.gif" alt="GIF divertido" width="900">
-</div>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhwb2xpaTdtejY4djE0NnZlN3hndWEwZjZidWExYmNxOHR3cTlnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/55DUoWF4HeKhG/giphy.gif" alt="gifblastoise" width="400">
+  </div>
 
 <br><br>
 
@@ -11,8 +11,10 @@
 - 🎓 Jovem Aprendiz no SENAI - Desenvolvimento de Sistemas
 - 📚 Sempre buscando aprender e crescer como desenvolvedora  
 - 💡 Estudando lógica de programação, design de sistemas e tecnologias web
-
+- 🧐 Meio obcecada com o sistema metroviário de São Paulo
 <br><br>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpnNjY2NDVibTcwa3NzNHB1YThvd2czOHF4MXBpYXd1c2F3bXptbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SGGHAPCjED1OcW6ixv/giphy.gif" alt="gifmudkip" width="100">
 
 [![Spotify](https://novatorem-git-main-vitorias-projects-142af1a4.vercel.app/api/spotify)](https://open.spotify.com/user/31bmj24assunbecxzhxtwxmu4imq)
 
