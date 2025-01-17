@@ -10,9 +10,11 @@
 ## 🐊 Sobre mim:
 - 🎓 Jovem Aprendiz no SENAI - Desenvolvimento de Sistemas
 - 📚 Sempre buscando aprender e crescer como desenvolvedora  
-- 💡 Interesse em lógica de programação, design de sistemas e tecnologias web
+- 💡 Estudando lógica de programação, design de sistemas e tecnologias web
 
 <br><br>
+
+[![Spotify](https://novatorem-git-main-vitorias-projects-142af1a4.vercel.app/api/spotify)](https://open.spotify.com/user/31bmj24assunbecxzhxtwxmu4imq)
 
 # Estou aprendendo:
 
@@ -21,8 +23,8 @@
   <img src="https://img.shields.io/badge/JavaScript-00008B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 </p>
 
-<br><br>
 
+<br><br>
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kevilinporto&show_icons=true&theme=radical)
 
@@ -31,8 +33,4 @@
 
 <br><br>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kevilinporto)
-
-
-[![Spotify](https://novatorem-git-main-vitorias-projects-142af1a4.vercel.app/api/spotify)](https://open.spotify.com/user/31bmj24assunbecxzhxtwxmu4imq)
 
