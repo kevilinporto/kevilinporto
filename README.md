@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kevilinporto.kevilinporto" />
-<h1 align="center">I'm Vitoria!</h1> <img align="right"
+<h1 align="center">I'm Vitoria!</h1> 
 
+<h2 align="center"> Desenvolvedora | Java | JavaScript</h2>
+<br><br>
 
-<h2 align="center"> Desenvolvedora | Java | JavaScript
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhwb2xpaTdtejY4djE0NnZlN3hndWEwZjZidWExYmNxOHR3cTlnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/55DUoWF4HeKhG/giphy.gif" alt="gifblastoise" width="400">
