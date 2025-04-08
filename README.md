@@ -6,10 +6,6 @@
 
 
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhwb2xpaTdtejY4djE0NnZlN3hndWEwZjZidWExYmNxOHR3cTlnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/55DUoWF4HeKhG/giphy.gif" alt="gifblastoise" width="400">
-</div>
-
 <br><br>
 
 
